@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=vuetify --enable_nbextensions=True notebooks/Solicitudes_bajav16.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True notebooks/Solicitudes_bajav15.ipynb
