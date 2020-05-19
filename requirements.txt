@@ -1,3 +1,16 @@
 voila
 voila-material
+ipyvuetify
+voila-vuetify
 bqplot
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
+numpy
+ipywidgets
+dash
+flask
+
+
