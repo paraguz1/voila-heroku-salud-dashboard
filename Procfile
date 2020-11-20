@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True notebooks/Salud_dashboard_v5.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True notebooks/Salud_dashboard_v6.ipynb
